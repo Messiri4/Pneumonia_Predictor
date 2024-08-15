@@ -1,7 +1,8 @@
 # Pneumonia Predictor
 
 ## Description
-This is a simple Convolutional Neural Network (CNN) that predicts pneumonia in patients using their xrays. I created this model to learn the basic concepts of building a CNN model with tensorflow.
+This is a simple Convolutional Neural Network (CNN) project that can predict pneumonia using X-ray images. I created this model to learn the basic concepts of building a CNN model with TensorFlow.
 
 ## Setup Environment
-This project was created on Google Colab. Below are a list of instructions to import dataset from Google Drive.
+### Datasets
+This project was developed on Google Colab. Below is a list of instructions for importing datasets from Google Drive.
