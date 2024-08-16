@@ -16,8 +16,11 @@ This project was developed on google colab. Below is a list of instructions for 
 * Unzip file
 * Check if the directory exist
 
-## Tech Stack
+### Tech Stack
 Here are a couple of libraries used to develop this project
 * Numpy
 * Pandas
 * Matplotlib
+* OS Module
+* TensorFlow
+* Sklearn
