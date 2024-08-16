@@ -12,4 +12,11 @@ This project was developed on google colab. Below is a list of instructions for 
 1. Download dataset from kaggle
 2. Upload dataset to google drive
 3. Mount google drive to google colab
+
    <img width="826" alt="Screenshot 2024-08-16 at 17 56 56" src="https://github.com/user-attachments/assets/cdcd529d-25c2-419f-9be8-9bd3f7f5fab6">
+5. Unzip file
+
+   <img width="872" alt="Screenshot 2024-08-16 at 18 14 01" src="https://github.com/user-attachments/assets/1ccbcd23-be24-402b-820a-0ac0b5e46bac">
+6. Check if the directory exist
+
+   <img width="868" alt="Screenshot 2024-08-16 at 18 15 46" src="https://github.com/user-attachments/assets/4f6f1ff5-cba3-4d88-b2ec-1251690476fb">
